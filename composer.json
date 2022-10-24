@@ -1,0 +1,20 @@
+{
+    "name": "compara/azon",
+    "description": "It is Amazon Affiliate API handle.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Compara\\Azon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sophy Prak",
+            "email": "sophy.prak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "revolution/laravel-amazon-product-api": "dev-master"
+    }
+}
