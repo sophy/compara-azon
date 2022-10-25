@@ -2,10 +2,11 @@
 
 namespace Compara\Azon;
 
-class Azon 
+class Azon
 {
-    public function greet(String $sName)
-    {
-        return 'Hi ' . $sName . '! How are you doing today?';
+    // Build your next great package.
+
+    public function test() {
+        return 'Hello';
     }
 }
